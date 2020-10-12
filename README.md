@@ -3,7 +3,7 @@
 </p>
 
 ### Overview
-This repository contains the code to the practice as well as solutions to the contest problems.
+This repository contains the code to the practice problems as well as solutions to the contest problems from different coding platforms.
 
 ### Contents
 
