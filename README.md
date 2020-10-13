@@ -5,7 +5,7 @@ This repository contains the solutions to the practice problems as well as solut
 
 <h2> Contents </h2>
 
-- [Atcoder](/AtCoder/README.md)
+- [Atcoder](/AtCoder/readme.md)
 - [Codechef](/Codechef/README.md)
 - [Codeforces](/Codeforces/README.md)
 - [Hackerrank](/Hackerrank/README.md)
