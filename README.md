@@ -1,6 +1,4 @@
-<p align="center">
-<h1>Competitive Programming</h1>
-</p>
+<h1 align="center">Competitive Programming</h1>
 
 ### Overview
 This repository contains the solutions to the practice problems as well as solutions to the contest problems from different coding platforms.
